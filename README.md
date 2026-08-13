@@ -1,1 +1,2 @@
+Press "F"
 ![Alt text](https://raw.githubusercontent.com/budturfays/poolians-trial-reset/refs/heads/main/Screenshot%202026-07-24%20165622.png)
